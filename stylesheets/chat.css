@@ -1,0 +1,13 @@
+.chatBox {
+    padding: 20px 30px;
+    border: solid 1px #aaa;
+    margin: 20px 37px 20px 0;
+    border-radius: 4px;
+    background: #f9f9f9;
+    height: 50vh;
+    overflow: scroll;
+}
+
+.chatBox li:nth-of-type(even){
+    background: #eee;
+}
